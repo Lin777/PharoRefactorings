@@ -1,6 +1,6 @@
-#REFACTORINGS WITH COMMAND
+# REFACTORINGS WITH COMMAND
 
-##CLASS
+## CLASS
 - Rename 
 - Remove
 - Insert superclass
@@ -18,7 +18,7 @@
 - Rename class variable
 - Rename instance variable
 
-##METHOD
+## METHOD
 - Add parameter
 - Inline senders (inline target sends)
 - Move to class side / to inst side (no swap)
@@ -32,7 +32,7 @@
 - Remove and the ones in subclasses
 - Replace senders
 
-##SOURCE CODE
+## SOURCE CODE
 - Extract method
 - Extract temp
 - Inline method
@@ -42,7 +42,7 @@
 
 # REFACTORING WHITOUT COMMAND
 
-##CLASS
+## CLASS
 - Realize (Does not work)
 - Split
 - Add class variable
@@ -51,22 +51,20 @@
 - Move a class and its subclass to a new superclass
 - Rename with regexp
 
-##METHOD
+## METHOD
 - Deprecated
 - Inline parameter
 - Move method to instVar (RBMoveMethodRefactoring)
 
-##SOURCE CODE
+## SOURCE CODE
 - Extract method (but you can choose to which component (instance or argument variable) the new method is added)
 - Move variable definition to Block or Scope
 - Split cascade
 
-##VARIABLE
+## VARIABLE
 - Replacing every direct access to  class variables with accessor methods 
 
-
-
-##PACKAGE
+## PACKAGE
 - Package rename
 
 

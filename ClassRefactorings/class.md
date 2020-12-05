@@ -1,0 +1,33 @@
+# Class Refactorings
+
+- [Rename](./RenameClass.md)
+- [Remove](./RemoveClass.md)
+- [Generate Accessor](./GenerateAccessors.md)
+- [Generate Superclass](./GenerateSuperclass.md)
+- [Insert Superclass](./InserSuperclass.md)
+- [Insert Subclass](./InsertSubclass.md)
+- [Generate subclass](./GenerateSubclass.md)
+- [Realize](./RenameClass.md)
+- [Split instance variables](./Split.md)
+- [Abstract class variable](./AbstractClassVariable.md)
+- [Abstract instance variable](./AbstractInstanceVariable.md)
+- [Add class variable](./AddClassVariable.md)
+- [Add instance variable](./AddInstanceVariable.md)
+- [Add method](./AddMethod.md)
+- [Apply Class Deprecation](./ClassDeprecation.md)
+- [Children To Siblings](./ChildrenToSiblings.md)
+- [Move inst var to Class](./MoveInstVarToClass.md)
+- [Remove Class Keeping Subclasses](./RemoveClassKeepingSubclasses.md)
+
+## Variables
+
+- [Generate accessors](./VariableGenerateAccessors.md)
+- [Protect Instance Variable](./ProtectInstanceVariable.md)
+- [Pull Up Class Var](./PullUpClassVar.md)
+- [Pull Up Inst Var](./PullUpInstVar.md)
+- [Push Down Class Var](./PushDownClassVar.md)   
+- [Push Down Inst Var](./PushDownInstVar.md)
+- [Remove Class Variable](./RemoveClassVariable.md)
+- [Remove Instance Variable](./RemoveInstanceVariable.md)
+- [Rename class varibale](./RenameClassVariable.md)
+- [Rename instance variable](./RenameInstanceVariable.md)

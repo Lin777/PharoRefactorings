@@ -11,16 +11,16 @@ Generates setter and getter methods for every instance variable defined in this 
 - **Access to command:** 
     - Select class >> cmd + GA
     - Select class >> open menu >> select GenerateAccessors option
-- [ x ] refactoring exist in Pharo 9
-- [ x ] refactoring works 
+- [x] refactoring exist in Pharo 9
+- [x] refactoring works 
 - [ ] has its own refactoring class  
-- [ x ] has tests before the revision
-- [ x ] has command in menu
+- [x] has tests before the revision
+- [x] has command in menu
 
 ## Analysis
 
-- [ x ] test checked all pass
-- [ x ] tests were added
-- [  ] tests were refactored
-- [ x ] implementation reviewed
+- [x] test checked all pass
+- [x] tests were added
+- [ ] tests were refactored
+- [x] implementation reviewed
 - [ ] interaction flow todo

@@ -20,16 +20,16 @@ Example
 - **Access to command:** 
     - Select class >> cmd + R
     - Select class >> open menu >> select Rename option
-- [ x ] refactoring exist in Pharo 9
-- [ x ] refactoring works 
-- [ x ] has its own refactoring class  
-- [ x ] has tests before the revision
-- [ x ] has command in menu
+- [x] refactoring exist in Pharo 9
+- [x] refactoring works 
+- [x] has its own refactoring class  
+- [x] has tests before the revision
+- [x] has command in menu
 
 ## Analysis
 
-- [ x ] test checked all pass
+- [x] test checked all pass
 - [ ] tests were added
-- [ x ] tests were refactored
-- [ x ] implementation reviewed
+- [x] tests were refactored
+- [x] implementation reviewed
 - [ ] interaction flow todo

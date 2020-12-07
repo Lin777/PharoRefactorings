@@ -24,16 +24,16 @@ Any method and instance variables,  defined in ClassS and used by the new siblin
 - **Class:** ```RBChildrenToSiblingsRefactoring```
 - **TestClass:** ```RBChildrenToSiblingsTest```
 - **Access to command:** ???
-- [ x ] refactoring exist in Pharo 9
-- [ x ] refactoring works 
-- [ x ] has its own refactoring class  
-- [ x ] has tests before the revision
-- [  ] has command in menu
+- [x] refactoring exist in Pharo 9
+- [x] refactoring works 
+- [x] has its own refactoring class  
+- [x] has tests before the revision
+- [ ] has command in menu
 
 ## Analysis
 
-- [ x ] test checked all pass
-- [  ] tests were added
-- [  ] tests were refactored
-- [ x ] implementation reviewed
+- [x] test checked all pass
+- [ ] tests were added
+- [ ] tests were refactored
+- [x] implementation reviewed
 - [ ] interaction flow todo

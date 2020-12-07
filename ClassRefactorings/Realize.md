@@ -10,9 +10,9 @@ Shows a warning if this class has abstract methods on its own.
 - **Class:** ``` RBRealizeClassRefactoring```
 - **TestClass:**  ???
 - **Access to command:** ???
-- [ x ] refactoring exist in Pharo 9
-- [  ] refactoring works 
-- [ x ] has its own refactoring class  
+- [x] refactoring exist in Pharo 9
+- [ ] refactoring works 
+- [x] has its own refactoring class  
 - [ ] has tests before the revision
 - [ ] has command in menu
 

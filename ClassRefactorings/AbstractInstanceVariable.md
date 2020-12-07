@@ -11,18 +11,18 @@ I create new accessor methods for the variables and replace every read and write
 - **TestClass:** ```RBAbstractInstanceVariableTest```
 - **Access to command:** 
     - Select class >> open menu >> select "Abstract instance variables" option
-- [ x ] refactoring exist in Pharo 9
-- [  ] refactoring works 
-- [ x ] has its own refactoring class  
-- [ x ] has tests before the revision
-- [ x ] has command in menu
+- [x] refactoring exist in Pharo 9
+- [ ] refactoring works 
+- [x] has its own refactoring class  
+- [x] has tests before the revision
+- [x] has command in menu
 
 ## Analysis
 
-- [ x ] test checked all pass
-- [ x ] tests were added
-- [  ] tests were refactored
-- [ x ] implementation reviewed
+- [x] test checked all pass
+- [x] tests were added
+- [ ] tests were refactored
+- [x] implementation reviewed
 - [ ] interaction flow todo
 
 ## Notes

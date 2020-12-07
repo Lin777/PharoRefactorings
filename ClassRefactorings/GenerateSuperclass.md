@@ -5,7 +5,7 @@ The name of the new class needs to be a valid class name, not yet used as any gl
 
 ## Properties
 
-> Not implemented but thos refactoring probably could use RBAddClassTest
+> Not implemented but this refactoring probably could use RBAddClassTest
 
 - **Class:** ```RBAddClassTest```
 - **TestClass:** ```RBAddClassRefactoring```

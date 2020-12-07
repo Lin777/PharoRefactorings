@@ -18,16 +18,16 @@ This refactoring will
 - **TestClass:** ```RBAddParameterTest```
 - **Access to command:** 
     - Select method >> open menu >> select "Refactorings" option >> select "Add argument" option
-- [ x ] refactoring exist in Pharo 9
-- [ x ] refactoring works 
-- [ x ] has its own refactoring class  
-- [ x ] has tests before the revision
-- [ x ] has command in menu
+- [x] refactoring exist in Pharo 9
+- [x] refactoring works 
+- [x] has its own refactoring class  
+- [x] has tests before the revision
+- [x] has command in menu
 
 ## Analysis
 
-- [ x ] test checked all pass
-- [ x ] tests were added
-- [ x ] tests were refactored
-- [ x ] implementation reviewed
+- [x] test checked all pass
+- [x] tests were added
+- [x] tests were refactored
+- [x] implementation reviewed
 - [ ] interaction flow todo

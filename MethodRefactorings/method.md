@@ -1,5 +1,17 @@
 # Method Refactorings
 
 - [Add parameter](./AddParameterRefactoring.md)
+- [Deprecate](./Deprecate.md)
 - [Inline parameter](./InlineParameterRefactoring.md)
 - [Inline All Senders](./InlineAllSenders.md)
+- [Move Method](./MoveMethod.md)
+- [Move to class side / instance side](./MoveClassOrInstanceSide.md)
+- [Push down](./PushDown.md)
+- [Push up](./PushUp.md)
+- [Remove](./Remove.md)
+- [Remove parameer](./RemoveParameter.md)
+- [Rename](./Rename.md)
+- [Move Method To Class](./MoveMethodToClass.md)
+- [Remove in Hierarchy](./RemoveHierarchy.md)
+- [Replace](./Replace.md)
+- [Find and replace](./FindAndReplace.md)

@@ -13,16 +13,16 @@ My precondition verifies that the new variable is valid and not yet used in the 
 - **Access to command:** 
     - Select class variable >> cmd + R
     - Select class variable >> open menu >> select "Rename" option
-- [ x ] refactoring exist in Pharo 9
-- [ x ] refactoring works 
-- [ x ] has its own refactoring class  
-- [ x ] has tests before the revision
-- [ x ] has command in menu
+- [x] refactoring exist in Pharo 9
+- [x] refactoring works 
+- [x] has its own refactoring class  
+- [x] has tests before the revision
+- [x] has command in menu
 
 ## Analysis
 
-- [ x ] test checked all pass
-- [  ] tests were added
-- [  ] tests were refactored
+- [x] test checked all pass
+- [ ] tests were added
+- [ ] tests were refactored
 - [ ] implementation reviewed
 - [ ] interaction flow todo

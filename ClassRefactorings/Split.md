@@ -37,16 +37,16 @@ and every reference to the old vars color / font / style will be replaced by tex
 - **Class:** ``` RBRealizeClassRefactoring```
 - **TestClass:**  ```RBSplitClassTest```
 - **Access to command:** ???
-- [ x ] refactoring exist in Pharo 9
-- [ x ] refactoring works 
-- [ x ] has its own refactoring class  
+- [x] refactoring exist in Pharo 9
+- [x] refactoring works 
+- [x] has its own refactoring class  
 - [ ] has tests before the revision
 - [ ] has command in menu
 
 ## Analysis
 
-- [ x ] test checked all pass
-- [ x ] tests were added
+- [x] test checked all pass
+- [x] tests were added
 - [ ] tests were refactored
-- [ x ] implementation reviewed
+- [x] implementation reviewed
 - [ ] interaction flow todo

@@ -29,16 +29,16 @@ baz
 - **TestClass:** ```RBInlineAllMethodTest```
 - **Access to command:** 
     - select method >> open menu >> select "refactorings" option >> select "inline senders" option 
-- [ x ] refactoring exist in Pharo 9
-- [ x ] refactoring works 
-- [ x ] has its own refactoring class  
-- [ x ] has tests before the revision
-- [ x ] has command in menu
+- [x] refactoring exist in Pharo 9
+- [x] refactoring works 
+- [x] has its own refactoring class  
+- [x] has tests before the revision
+- [x] has command in menu
 
 ## Analysis
 
-- [ x ] test checked all pass
-- [ x ] tests were added
+- [x] test checked all pass
+- [x] tests were added
 - [ ] tests were refactored
 - [ ] implementation reviewed
 - [ ] interaction flow todo

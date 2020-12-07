@@ -10,16 +10,16 @@ The name of the new class needs to be a valid class name, not yet used as any gl
 - **TestClass:** ```RBAddClassRefactoring```
 - **Access to command:** 
     Select class >> open menu >> select "Refactorings" option >> select "New subclass" option
-- [ x ] refactoring exist in Pharo 9
-- [ x ] refactoring works 
+- [x] refactoring exist in Pharo 9
+- [x] refactoring works 
 - [ ] has its own refactoring class  
-- [ x ] has tests before the revision
-- [ x ] has command in menu
+- [x] has tests before the revision
+- [x] has command in menu
 
 ## Analysis
 
-- [ x ] test checked all pass
-- [ x ] tests were added
-- [  ] tests were refactored
-- [ x ] implementation reviewed
+- [x] test checked all pass
+- [x] tests were added
+- [ ] tests were refactored
+- [x] implementation reviewed
 - [ ] interaction flow todo

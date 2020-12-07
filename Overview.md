@@ -1,7 +1,7 @@
 # REFACTORINGS WITH COMMAND
 
 ## CLASS
-- Rename 
+- Rename (Code ok, Test ok, UI ok, Commander1) 
 - Remove
 - Insert superclass
 - Insert subclass

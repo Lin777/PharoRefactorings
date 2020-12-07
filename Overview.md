@@ -65,6 +65,6 @@
 - Replacing every direct access to  class variables with accessor methods 
 
 ## PACKAGE
-- Package rename
+- Package rename should rename the manifest
 
 

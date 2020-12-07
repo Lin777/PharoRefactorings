@@ -9,12 +9,13 @@ Omit method that are redefined in subclasses.
 
 - **Class:** ```RBProtectInstanceVariableRefactoring```
 - **TestClass:** ```RBProtectInstanceVariableTest```
-- **Access to command:** ???
+- **Access to command:** 
+  - select instance variable >> select "Protect" option
 - [x] refactoring exist in Pharo 9
-- [x] refactoring works 
+- [ ] refactoring works 
 - [x] has its own refactoring class  
 - [x] has tests before the revision
-- [ ] has command in menu
+- [x] has command in menu
 
 ## Analysis
 
@@ -27,3 +28,4 @@ Omit method that are redefined in subclasses.
 ## Note
 
 - Need add more tests
+- Sometimes not works well

@@ -6,7 +6,7 @@
 - Insert superclass
 - Insert subclass
 - Generate subclass (New subclass)
-- Abstract instance variables (Replacing every direct access to  instance  variables with accessor methods)
+- Abstract instance variables (Replacing every direct access to  instance  variables with accessor methods) (Code ok, Test ok, UI NotOk, should be in commander2) 
 - Generate accesors (instar, classVar)
 - Protect inst var
 - Pull Up instance variable
